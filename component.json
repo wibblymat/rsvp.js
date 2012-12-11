@@ -1,5 +1,7 @@
 {
   "name": "rsvp",
   "version": "1.0.0",
-  "main": "browser/rsvp.min.js"
+  "main": ["browser/rsvp.min.js", "browser/rsvp-amd.js"],
+  "dependencies": {
+  }
 }
