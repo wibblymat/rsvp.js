@@ -1,0 +1,5 @@
+{
+  "name": "rsvp",
+  "version": "1.0.0",
+  "main": "browser/rsvp.min.js"
+}
